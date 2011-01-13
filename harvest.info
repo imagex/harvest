@@ -1,0 +1,5 @@
+name = Harvest API
+description = "Provides a link between Drupal and the harvest API."
+version = 6.x-1.0
+core = 6.x
+package = Harvest

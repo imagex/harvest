@@ -1,0 +1,6 @@
+name = Harvest Projects
+description = "Provides a project management system that integrates into your harvest account."
+version = 6.x-1.1
+core = 6.x
+package = Harvest
+dependencies[] = harvest

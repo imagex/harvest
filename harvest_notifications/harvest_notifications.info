@@ -1,0 +1,8 @@
+name = Harvest Notifications
+description = "Provides various harvest project notifications."
+version = 6.x-1.0
+core = 6.x
+package = Harvest
+dependencies[] = harvest
+dependencies[] = harvest_projects
+dependencies[] = token
